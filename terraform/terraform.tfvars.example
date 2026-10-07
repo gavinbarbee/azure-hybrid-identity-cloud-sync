@@ -1,0 +1,4 @@
+subscription_id = "00000000-0000-0000-0000-000000000000"
+
+# eastus2 by default; switch to centralus if B-series quota is short
+location = "eastus2"
